@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SurendharSSenthil.
-- 👀 I'm an aspiring web-developer.
-- 🌱 I’m currently learning web-development.
-- 💞️ I’m looking to collaborate on projects regarding front-end development and looking for chances to improve my tech knowledge.
+- 👀 I'm an aspiring full stack developer.
+- 💞️ I’m looking to collaborate on projects regarding full stack development and looking for chances to improve my tech knowledge.
 - 📫 Reach me via email surendharsenthil257@gmail.com
 
 <!---
