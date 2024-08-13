@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Surendhar Senthil</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendharssenthil&label=Profile%20views&color=0e75b6&style=flat" alt="surendharssenthil" /> </p>
 
-- 🌱 I’m currently learning **deep learning**
-
 - 👯 I’m looking to collaborate on **full stack projects**
-
-- 👨‍💻 All of my projects are available at [https://surendhar-portfolio.netlify.app/](https://surendhar-portfolio.netlify.app/)
 
 - 📫 How to reach me **surendharsenthil257@gmail.com**
 
