@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendhar S</h1>
-<h3 align="center">A driven Software Developer with a knack for problem-solving</h3>
+<h3 align="center">A driven Software Engineer with a knack for problem-solving</h3>
 
 - 🔭 I’m currently interning at [C1X Adtech Pvt Ltd](https://c1exchange.com/)
 
